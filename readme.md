@@ -15,9 +15,6 @@ The full market research document for the **Moonlight Warehouse Inventory Manage
 
 **Document:** [Research_moonlightWarehouse.docx](./docs/Research_moonlightWarehouse.docx)
 
-## Summary
-The market research reviews current warehouse and inventory management solutions, compares relevant competitor features, identifies business needs, and justifies the proposed Moonlight Warehouse Inventory Management System.
-
 ## Main Areas Covered
 - warehouse inventory software market overview
 - competitor analysis
@@ -44,8 +41,6 @@ This document contains the **Project Overview** section for the **Moonlight Ware
 
 **Document:** [project_overview.docx](./docs/project_overview.docx)
 
-## Summary
-The Project Overview explains the foundation of the Moonlight Warehouse project, including its goals, scope, business context, team responsibilities, expected deliverables, and estimated budget.
 
 ---
 # Work Breakdown Structure (WBS)
@@ -59,9 +54,6 @@ This document contains the **Work Breakdown Structure (WBS)** for the **Moonligh
 - task breakdown for planning and scheduling
 
 **Document:** [Wbs_moonlight.docx](./docs/Wbs_moonlight.docx)
-
-## Summary
-The WBS breaks the project into manageable activities so the team can organize work, assign responsibilities, and prepare the project schedule.
 
 ---
 
@@ -78,8 +70,8 @@ This document contains the **Gantt Chart** for the **Moonlight Warehouse Invento
 
 **Document:** [Gantt_chart.mpp](./docs/Gantt_chart.mpp)
 
-## Summary
-The Gantt Chart shows when each project activity will be completed and helps track progress against the final deadline.
+
+
 ---
 
 # Functional and Non-Functional Requirements
@@ -93,9 +85,6 @@ This document contains the **Functional Requirements (FRs)** and **Non-Functiona
 - security, performance, usability, and reliability requirements
 
 **Document:** [FR_and_NFR.docx](./docs/FR_and_NFR.docx)
-
-## Summary
-This document defines what the system must do and the quality standards it must meet before design and development can proceed.
 
 ---
 
