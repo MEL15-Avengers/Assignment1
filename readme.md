@@ -41,8 +41,8 @@ This document contains the **Project Overview** section for the **Moonlight Ware
 - Key Deliverables
 - Project Budget
 
-## File
-[project_overview.docx](./docs/project_overview.docx)
+
+**Document:** [project_overview.docx](./docs/project_overview.docx)
 
 ## Summary
 The Project Overview explains the foundation of the Moonlight Warehouse project, including its goals, scope, business context, team responsibilities, expected deliverables, and estimated budget.
