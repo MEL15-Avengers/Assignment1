@@ -26,7 +26,28 @@ The market research reviews current warehouse and inventory management solutions
 - business value
 - recommended project scope
 ---
+# Project Overview
 
+This document contains the **Project Overview** section for the **Moonlight Warehouse Inventory Management System**.
+
+## Included Sections
+- Purpose of the Project
+- Objectives of the Project
+- Limitations and Scope
+- Assumptions
+- Company Profile
+- Constraints
+- Roles and Responsibilities
+- Key Deliverables
+- Project Budget
+
+## File
+[project_overview.docx](./docs/project_overview.docx)
+
+## Summary
+The Project Overview explains the foundation of the Moonlight Warehouse project, including its goals, scope, business context, team responsibilities, expected deliverables, and estimated budget.
+
+---
 
 ## Repository Structure
 ```text
