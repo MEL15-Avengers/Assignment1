@@ -5,10 +5,11 @@
 **Repository:** Assignment1  
 **Project Title:** Moonlight Warehouse Inventory Management System  
 **Course Task:** Assignment 1  
-**Current Milestone:** Project Overview
+
 
 ---
 # Market Research
+**Current Milestone:** Project Overview
 
 The full market research document for the **Moonlight Warehouse Inventory Management System** is provided in the Word document below:
 
