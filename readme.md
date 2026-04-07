@@ -53,7 +53,7 @@ This document contains the **Work Breakdown Structure (WBS)** for the **Moonligh
 - structured work hierarchy
 - task breakdown for planning and scheduling
 
-**Document:** [Wbs_moonlight.docx]![[(./docs/Wbs_moonlight.svg)]]
+**Document:** ![Wbs_moonlight.docx](./docs/Wbs_moonlight.svg)
 
 ---
 
