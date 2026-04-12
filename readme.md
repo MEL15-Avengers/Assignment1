@@ -68,7 +68,7 @@ This document contains the **Gantt Chart** for the **Moonlight Warehouse Invento
 - dependencies
 - milestones
 
-**Document:** [Gantt_chart.mpp](./docs/Gantt_chart.mpp)
+**Document:** [Gantt_chart.mpp](./docs/Gantt_chart_moonlight.pdf)
 
 
 
