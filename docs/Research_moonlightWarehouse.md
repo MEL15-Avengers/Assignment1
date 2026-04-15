@@ -2,7 +2,7 @@
 
 ## Moonlight Warehouse Inventory Management System
 
-See full research source: [Research_moonlightWarehouse.docx](sandbox:/mnt/data/Research_moonlightWarehouse.docx) :contentReference[oaicite:0]{index=0}
+See full research source: [Research_moonlightWarehouse.docx](Research_moonlightWarehouse.docx)
 
 ---
 
