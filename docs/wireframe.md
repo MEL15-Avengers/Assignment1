@@ -6,7 +6,7 @@
 **Path:** `Assignment1/docs/wireframes.pdf`  
 **Total Pages:** 20  
 
-Source: [wireframes.pdf](sandbox:/mnt/data/wireframes.pdf) :contentReference[oaicite:0]{index=0}
+Source: [wireframes.pdf](wireframes.pdf)
 
 ---
 
