@@ -1,9 +1,9 @@
 # Moonlight Warehouse Inventory Management System
 
 ## Assignment Information
-**Repository:** Assignment1  
+**Repository:** Assignment1/2/3
 **Project Title:** Moonlight Warehouse Inventory Management System  
-**Course Task:** Assignment 1  
+**Course Task:** Assignment 1/2/3
 
 ---
 
