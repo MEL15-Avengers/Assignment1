@@ -88,7 +88,7 @@ Create a file named `.env` in the project root with the following content:
 DATABASE_URL=postgresql://postgres:YOUR_PASSWORD@localhost:5432/moonlight_wms
 
 # Groq AI API key (free at https://console.groq.com/)
-GROQ_API_KEY=your_groq_api_key_here
+GROQ_API_KEY=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
 
 # Server port (optional, defaults to 3001)
 PORT=3001
